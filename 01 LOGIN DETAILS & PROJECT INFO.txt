@@ -1,0 +1,10 @@
+using md5 password hashed
+
+**Login Details**
+
+username: abbas/ abbas@gmail.com
+password: hodroj123
+
+
+Username: george / george@gmail.com
+Password : hodroj123
